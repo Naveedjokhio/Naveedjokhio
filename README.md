@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveed-jokhio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveedjokhio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://naveedjokhio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://naveedjokhio.netlify.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveedjokhio243@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20To%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
@@ -30,9 +30,10 @@
 Name        : Naveed Jokhio
 Role        : Cloud Data Engineer (Aspiring)
 Education   : BS Software Engineering — SMIU, Karachi (2023–2027)
-Experience  : Arch Technologies (Intern) | HexSoftwares (Intern)
+Experience  : Arch Technologies (Intern) 
 Location    : Karachi, Pakistan 🇵🇰
 Focus       : ETL/ELT Pipelines · Data Warehousing · Cloud Infrastructure
+Currently   : Final Year Student @ SMIU — turning theory into pipelines 🔧
 Open_to     : Full-time & Internship Opportunities
 ```
 
@@ -82,7 +83,7 @@ Open_to     : Full-time & Internship Opportunities
 | 🏠 **Airbnb Data Pipeline** | AWS S3 · Snowflake · dbt · Airflow | Medallion Arch · SCD Type-2 · Star Schema |
 | ⚡ **AWS Serverless ETL** | S3 · Lambda · Glue · Athena | JSON→Parquet · ~40% storage cut |
 | 🛒 **Kaggle Orders ETL** | Python · SQL Server | ~35% query speed boost |
-| 🌐 **Personal Portfolio** | HTML · CSS · Netlify | [Live Site](https://connectwithnaveedjokhio.netlify.app) |
+| 🌐 **Personal Portfolio** | HTML · CSS · Netlify | [Live Site](https://naveedjokhio.netlify.app) |
 
 </div>
 
