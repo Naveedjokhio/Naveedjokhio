@@ -27,13 +27,13 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Naveed Jokhio
-role        : Cloud Data Engineer (Aspiring)
-education   : BS Software Engineering — SMIU, Karachi (2023–2027)
-experience  : Arch Technologies (Intern) | HexSoftwares (Intern)
-location    : Karachi, Pakistan 🇵🇰
-focus       : ETL/ELT Pipelines · Data Warehousing · Cloud Infrastructure
-open_to     : Full-time & Internship Opportunities
+Name        : Naveed Jokhio
+Role        : Cloud Data Engineer (Aspiring)
+Education   : BS Software Engineering — SMIU, Karachi (2023–2027)
+Experience  : Arch Technologies (Intern) | HexSoftwares (Intern)
+Location    : Karachi, Pakistan 🇵🇰
+Focus       : ETL/ELT Pipelines · Data Warehousing · Cloud Infrastructure
+Open_to     : Full-time & Internship Opportunities
 ```
 
 ---
