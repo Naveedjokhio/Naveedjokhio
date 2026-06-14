@@ -51,6 +51,15 @@ class NaveedJokhio:
         print("Thanks for stopping by — let's build something data-driven! 🚀")
 ```
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓_Status-Final%20Year%20Student-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/💼_Role-Cloud%20Data%20Engineer-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_Based%20in-Karachi%2C%20Pakistan-10B981?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🟢_Open%20to-Work%20%26%20Internships-22C55E?style=for-the-badge&labelColor=1a1a2e"/>
+
+</div>
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -101,7 +110,8 @@ class NaveedJokhio:
 ## 🚀 Featured Pipelines
 
 ### ✈️ Flight Operations Analytics Pipeline
-**Apache Airflow · Python · Snowflake · Docker · Power BI**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0093E9,100:80D0C7&height=4&width=100%25" width="100%"/>
 
 Production-grade batch pipeline ingesting live flight data from the OpenSky Network API every 30 minutes via an Airflow DAG.
 
@@ -110,10 +120,17 @@ Production-grade batch pipeline ingesting live flight data from the OpenSky Netw
 - 📊 Gold-layer KPIs (air traffic volume, congestion signals, country-level activity) loaded into Snowflake via UPSERT
 - 🐳 Fully Dockerized with `docker-compose`, visualized in Power BI
 
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 ---
 
 ### 🏨 End-to-End Hotel Booking Data Pipeline
-**100% Snowflake-Native · SQL · Snowsight**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2994A,100:F2C94C&height=4&width=100%25" width="100%"/>
 
 A complete hotel booking data pipeline built entirely inside Snowflake using Medallion Architecture.
 
@@ -121,19 +138,40 @@ A complete hotel booking data pipeline built entirely inside Snowflake using Med
 - 🥈 **Silver** — SQL transformations fixing invalid emails, negative amounts & status typos
 - 🥇 **Gold** — Aggregation tables powering an interactive Snowsight dashboard with KPIs, trend charts & booking breakdowns
 
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowsight-F2C94C?style=for-the-badge&logo=snowflake&logoColor=black"/>
+<img src="https://img.shields.io/badge/Medallion_Architecture-8A2BE2?style=for-the-badge"/>
+
 ---
 
 ### 🏠 End-to-End Airbnb Data Pipeline
-**AWS S3 · Snowflake · dbt · Airflow**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5A5F,100:FF9472&height=4&width=100%25" width="100%"/>
 
 Cloud-native ELT pipeline with Medallion Architecture (Bronze → Silver → Gold), incremental dbt models, SCD Type-2 snapshots, and a Star Schema (fact/dimension tables) enforced via dbt schema tests.
+
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Star_Schema-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCD_Type--2-10B981?style=for-the-badge"/>
 
 ---
 
 ### ⚡ AWS Serverless ETL Pipeline
-**S3 · Lambda · Glue · Athena · Python**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9900,100:FFC93C&height=4&width=100%25" width="100%"/>
 
 Event-driven, serverless ETL pipeline converting raw JSON into columnar Parquet, cutting storage costs by ~40%. Schema inference automated via AWS Glue Crawlers with modular Lambda functions and S3 partitioning.
+
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge"/>
 
 ---
 
