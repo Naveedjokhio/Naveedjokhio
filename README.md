@@ -1,11 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:CD7F32,50:C0C0C0,100:FFD700&height=200&section=header&text=Naveed%20Jokhio&fontSize=48&fontColor=1a1a1a&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Gold-Layer%20Insights&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:a18cd1&height=220&section=header&text=Hi%2C%20I'm%20Naveed%20%F0%9F%91%8B&fontSize=46&fontColor=1a1a2e&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%20Building%20Bronze-to-Gold%20Pipelines&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/naveed-jokhio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Naveedjokhio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://naveedjokhio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="mailto:naveedjokhio243@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Final+Year+SE+Student+%40+SMIU%2C+Karachi;AWS+%7C+Snowflake+%7C+dbt+%7C+Apache+Airflow;ETL%2FELT+%7C+Medallion+Architecture;Open+to+Data+Engineering+Roles+%F0%9F%93%A7"/>
+
+<br><br>
+
+<a href="https://linkedin.com/in/naveed-jokhio"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://github.com/Naveedjokhio"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="https://naveedjokhio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7"/></a>
+<a href="mailto:naveedjokhio243@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Naveedjokhio&style=for-the-badge&color=4facfe&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Naveedjokhio?style=for-the-badge&color=00f2fe&labelColor=0D1117"/>
 
 </div>
 
@@ -13,13 +22,15 @@
 
 ## 🥉🥈🥇 My Journey — Mapped Like a Medallion Pipeline
 
-| Stage | Layer | What It Represents |
-|:---:|:---|:---|
-| 🥉 | **Bronze — Raw Input** | BS Software Engineering @ SMIU, Karachi |
-| 🥈 | **Silver — Refinement** | Building skills in Python, SQL, AWS, Snowflake, Airflow & dbt |
-| 🥇 | **Gold — Analytics-Ready** | Data Engineering Intern @ Arch Technologies → Cloud Data Engineer |
+<div align="center">
 
-> Just like raw data is refined stage by stage into business-ready insight, I'm refining myself into a production-ready Cloud Data Engineer. 🚀
+| 🥉 Bronze — Raw Input | 🥈 Silver — Refinement | 🥇 Gold — Analytics-Ready |
+|:---:|:---:|:---:|
+| BS Software Engineering<br>@ SMIU, Karachi | Python · SQL · AWS · Snowflake<br>Airflow · dbt | Data Engineering Intern @ Arch Technologies<br>→ Cloud Data Engineer |
+
+</div>
+
+<p align="center"><i>Just like raw data is refined stage by stage into business-ready insight, I'm refining myself into a production-ready Cloud Data Engineer 🚀</i></p>
 
 ---
 
@@ -44,42 +55,46 @@ class NaveedJokhio:
 
 ## 🛠️ Tech Arsenal
 
-**Languages & Querying**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 
-**Cloud Platform — AWS**
-
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+**Cloud — AWS**
+<br>
+<img src="https://img.shields.io/badge/Amazon_S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-0D1117?style=for-the-badge&logo=awslambda&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS_Glue-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Athena-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/EC2-0D1117?style=for-the-badge&logo=amazonec2&logoColor=FF9900"/>
 
 **Data Warehousing**
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<br>
+<img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8"/>
+<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
 
 **Orchestration & Transformation**
-
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<br>
+<img src="https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE"/>
+<img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=FF694B"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 
 **Data Processing & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<br>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 
 **Core Concepts**
+<br>
+<img src="https://img.shields.io/badge/Medallion_Architecture-8A2BE2?style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/badge/Star_Schema-0EA5E9?style=for-the-badge&color=0EA5E9"/>
+<img src="https://img.shields.io/badge/SCD_Type--2-10B981?style=for-the-badge&color=10B981"/>
+<img src="https://img.shields.io/badge/ETL%2FELT-F97316?style=for-the-badge&color=F97316"/>
 
-![Medallion](https://img.shields.io/badge/Medallion_Architecture-8A2BE2?style=flat-square)
-![Star Schema](https://img.shields.io/badge/Star_Schema-008080?style=flat-square)
-![SCD2](https://img.shields.io/badge/SCD_Type--2-2E8B57?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL%2FELT-FF6F61?style=flat-square)
+</div>
 
 ---
 
@@ -134,29 +149,49 @@ Event-driven, serverless ETL pipeline converting raw JSON into columnar Parquet,
 
 ## 🎓 Education & Certifications
 
+<div align="center">
+
 | 🏛️ Program | Institution | Years |
 |---|---|---|
 | BS Software Engineering | Sindh Madressatul Islam University (SMIU), Karachi | 2023 – 2027 |
 | Intermediate (Pre-Engineering) | Govt. Boys Degree College, Naudero | 2019 – 2021 |
 
-![Deloitte](https://img.shields.io/badge/Data_Analytics-Deloitte-86BC25?style=flat-square)
-![TATA](https://img.shields.io/badge/GenAI_Data_Analytics-TATA-00BFFF?style=flat-square)
-![DataCamp](https://img.shields.io/badge/Python-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white)
-![Snowflake Cert](https://img.shields.io/badge/Hands--On_Essentials-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![NED](https://img.shields.io/badge/Certified_Data_Scientist-NED_University-DC143C?style=flat-square)
+<br>
+
+<img src="https://img.shields.io/badge/Data_Analytics-Deloitte-86BC25?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GenAI_Data_Analytics-TATA-00BFFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Python-DataCamp-03EF62?style=for-the-badge&labelColor=0D1117&logo=datacamp&logoColor=03EF62"/>
+<img src="https://img.shields.io/badge/Essentials-Snowflake-29B5E8?style=for-the-badge&labelColor=0D1117&logo=snowflake&logoColor=29B5E8"/>
+<img src="https://img.shields.io/badge/Data_Scientist-NED_University-DC143C?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats Dashboard
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naveedjokhio&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=C0C0C0&text_color=c9d1d9&bg_color=0d1117"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveedjokhio&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naveedjokhio&show_icons=true&theme=tokyonight&hide_border=true&title_color=4facfe&icon_color=00f2fe&text_color=c9d1d9&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveedjokhio&layout=compact&theme=tokyonight&hide_border=true&title_color=4facfe&text_color=c9d1d9&bg_color=0D1117"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Naveedjokhio&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=CD7F32&currStreakLabel=C0C0C0"/>
+<img src="https://streak-stats.demolab.com?user=Naveedjokhio&theme=tokyonight&hide_border=true&background=0D1117&ring=4facfe&fire=00f2fe&currStreakLabel=a18cd1"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveedjokhio&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4facfe&line=00f2fe&point=a18cd1"/>
+
+</div>
+
+---
+
+## 🏆 Trophy Room
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Naveedjokhio&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
@@ -168,8 +203,11 @@ Event-driven, serverless ETL pipeline converting raw JSON into columnar Parquet,
 
 *Open to Data Engineering internships, full-time roles & collaborations*
 
-<a href="https://linkedin.com/in/naveed-jokhio"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/naveed-jokhio"><img src="https://img.shields.io/badge/Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="mailto:naveedjokhio243@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD700,50:C0C0C0,100:CD7F32&height=120&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,50:00f2fe,100:4facfe&height=120&section=footer" width="100%"/>
 
 </div>
