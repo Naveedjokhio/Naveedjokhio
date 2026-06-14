@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:CD7F32,50:C0C0C0,100:FFD700&height=200&section=header&text=Naveed%20Jokhio&fontSize=48&fontColor=1a1a1a&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Gold-Layer%20Insights&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
 <a href="https://linkedin.com/in/naveed-jokhio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Naveedjokhio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://naveedjokhio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
@@ -15,21 +11,15 @@
 
 <br>
 
-## 🥉🥈🥇 My Journey, Mapped to a Medallion Pipeline
+## 🥉🥈🥇 My Journey — Mapped Like a Medallion Pipeline
 
-```mermaid
-graph LR
-    A["📚 BS Software Engineering<br/>SMIU, Karachi"] -->|raw input| B["🔧 Skills Refinement<br/>Python · SQL · Cloud"]
-    B -->|cleaned & validated| C["💼 Data Engineering Intern<br/>Arch Technologies"]
-    C -->|analytics-ready| D["🚀 Cloud Data Engineer<br/>AWS · Snowflake · Airflow · dbt"]
+| Stage | Layer | What It Represents |
+|:---:|:---|:---|
+| 🥉 | **Bronze — Raw Input** | BS Software Engineering @ SMIU, Karachi |
+| 🥈 | **Silver — Refinement** | Building skills in Python, SQL, AWS, Snowflake, Airflow & dbt |
+| 🥇 | **Gold — Analytics-Ready** | Data Engineering Intern @ Arch Technologies → Cloud Data Engineer |
 
-    style A fill:#CD7F32,stroke:#1a1a1a,color:#ffffff
-    style B fill:#A8A8A8,stroke:#1a1a1a,color:#1a1a1a
-    style C fill:#C0C0C0,stroke:#1a1a1a,color:#1a1a1a
-    style D fill:#FFD700,stroke:#1a1a1a,color:#1a1a1a
-```
-
-> 💡 Just like a Bronze → Silver → Gold pipeline transforms raw data into business-ready insights, I'm on a journey from foundational learning to building production-grade cloud data systems.
+> Just like raw data is refined stage by stage into business-ready insight, I'm refining myself into a production-ready Cloud Data Engineer. 🚀
 
 ---
 
@@ -54,106 +44,81 @@ class NaveedJokhio:
 
 ## 🛠️ Tech Arsenal
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
 **Languages & Querying**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-**Cloud Platform (AWS)**
-<br>
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud Platform — AWS**
+
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 
 **Data Warehousing**
-<br>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
-</td>
-<td valign="top" width="50%">
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Orchestration & Transformation**
-<br>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-**Data Processing & Viz**
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Data Processing & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Core Concepts**
-<br>
-<img src="https://img.shields.io/badge/Medallion_Architecture-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Star_Schema-008080?style=flat-square"/>
-<img src="https://img.shields.io/badge/SCD_Type--2-2E8B57?style=flat-square"/>
-<img src="https://img.shields.io/badge/ETL%2FELT-FF6F61?style=flat-square"/>
 
-</td>
-</tr>
-</table>
+![Medallion](https://img.shields.io/badge/Medallion_Architecture-8A2BE2?style=flat-square)
+![Star Schema](https://img.shields.io/badge/Star_Schema-008080?style=flat-square)
+![SCD2](https://img.shields.io/badge/SCD_Type--2-2E8B57?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL%2FELT-FF6F61?style=flat-square)
 
 ---
 
 ## 🚀 Featured Pipelines
 
-<details open>
-<summary><b>✈️ Flight Operations Analytics Pipeline</b> — Apache Airflow · Snowflake · Docker · Power BI</summary>
-<br>
+### ✈️ Flight Operations Analytics Pipeline
+**Apache Airflow · Python · Snowflake · Docker · Power BI**
 
-Production-grade **batch pipeline** ingesting live flight data from the **OpenSky Network API** every 30 minutes via an Airflow DAG.
+Production-grade batch pipeline ingesting live flight data from the OpenSky Network API every 30 minutes via an Airflow DAG.
 
-- 🥉 **Bronze → 🥈 Silver → 🥇 Gold** medallion architecture across 4 modular tasks
+- 🥉🥈🥇 Medallion Architecture (Bronze → Silver → Gold) across 4 modular tasks
 - ♻️ Retry logic & idempotent task design for reliable scheduling
-- 📊 Gold-layer KPIs (air traffic volume, congestion signals, country-level activity) loaded into Snowflake via **UPSERT**
-- 🐳 Fully Dockerized with `docker-compose`, visualized in **Power BI**
+- 📊 Gold-layer KPIs (air traffic volume, congestion signals, country-level activity) loaded into Snowflake via UPSERT
+- 🐳 Fully Dockerized with `docker-compose`, visualized in Power BI
 
-`Apache Airflow` `Python` `Snowflake` `Docker` `Power BI` `OpenSky API`
+---
 
-</details>
+### 🏨 End-to-End Hotel Booking Data Pipeline
+**100% Snowflake-Native · SQL · Snowsight**
 
-<details open>
-<summary><b>🏨 End-to-End Hotel Booking Data Pipeline</b> — 100% Snowflake-Native</summary>
-<br>
+A complete hotel booking data pipeline built entirely inside Snowflake using Medallion Architecture.
 
-A complete hotel booking data pipeline built **entirely inside Snowflake** using Medallion Architecture.
+- 🥉 **Bronze** — Raw booking ingestion
+- 🥈 **Silver** — SQL transformations fixing invalid emails, negative amounts & status typos
+- 🥇 **Gold** — Aggregation tables powering an interactive Snowsight dashboard with KPIs, trend charts & booking breakdowns
 
-- 🥉 **Bronze**: Raw booking ingestion
-- 🥈 **Silver**: SQL transformations fixing invalid emails, negative amounts & status typos
-- 🥇 **Gold**: Aggregation tables powering an interactive **Snowsight dashboard** with KPIs, trend charts & booking breakdowns
+---
 
-`Snowflake` `SQL` `Medallion Architecture` `Snowsight`
+### 🏠 End-to-End Airbnb Data Pipeline
+**AWS S3 · Snowflake · dbt · Airflow**
 
-</details>
+Cloud-native ELT pipeline with Medallion Architecture (Bronze → Silver → Gold), incremental dbt models, SCD Type-2 snapshots, and a Star Schema (fact/dimension tables) enforced via dbt schema tests.
 
-<details>
-<summary><b>🏠 End-to-End Airbnb Data Pipeline</b> — AWS S3 · Snowflake · dbt · Airflow</summary>
-<br>
+---
 
-Cloud-native **ELT pipeline** with Medallion Architecture (Bronze → Silver → Gold), incremental dbt models, **SCD Type-2** snapshots, and a Star Schema (fact/dimension tables) enforced via dbt schema tests.
+### ⚡ AWS Serverless ETL Pipeline
+**S3 · Lambda · Glue · Athena · Python**
 
-`AWS S3` `Snowflake` `dbt` `Airflow` `SCD Type-2` `Star Schema`
-
-</details>
-
-<details>
-<summary><b>⚡ AWS Serverless ETL Pipeline</b> — S3 · Lambda · Glue · Athena</summary>
-<br>
-
-Event-driven, **serverless ETL pipeline** converting raw JSON into columnar **Parquet**, cutting storage costs by ~40%. Schema inference automated via AWS Glue Crawlers with modular Lambda functions and S3 partitioning.
-
-`AWS S3` `Lambda` `Glue` `Athena` `Python` `Parquet`
-
-</details>
+Event-driven, serverless ETL pipeline converting raw JSON into columnar Parquet, cutting storage costs by ~40%. Schema inference automated via AWS Glue Crawlers with modular Lambda functions and S3 partitioning.
 
 ---
 
@@ -174,15 +139,11 @@ Event-driven, **serverless ETL pipeline** converting raw JSON into columnar **Pa
 | BS Software Engineering | Sindh Madressatul Islam University (SMIU), Karachi | 2023 – 2027 |
 | Intermediate (Pre-Engineering) | Govt. Boys Degree College, Naudero | 2019 – 2021 |
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data_Analytics-Deloitte-86BC25?style=flat-square"/>
-<img src="https://img.shields.io/badge/GenAI_Data_Analytics-TATA-00BFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hands--On_Essentials-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Certified_Data_Scientist-NED_University-DC143C?style=flat-square"/>
-
-</div>
+![Deloitte](https://img.shields.io/badge/Data_Analytics-Deloitte-86BC25?style=flat-square)
+![TATA](https://img.shields.io/badge/GenAI_Data_Analytics-TATA-00BFFF?style=flat-square)
+![DataCamp](https://img.shields.io/badge/Python-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white)
+![Snowflake Cert](https://img.shields.io/badge/Hands--On_Essentials-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![NED](https://img.shields.io/badge/Certified_Data_Scientist-NED_University-DC143C?style=flat-square)
 
 ---
 
@@ -195,7 +156,7 @@ Event-driven, **serverless ETL pipeline** converting raw JSON into columnar **Pa
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveedjokhio&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=CD7F32&currStreakLabel=C0C0C0"/>
+<img src="https://streak-stats.demolab.com?user=Naveedjokhio&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=CD7F32&currStreakLabel=C0C0C0"/>
 
 </div>
 
