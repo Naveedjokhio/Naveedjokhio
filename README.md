@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Naveed%20Jokhio&fontSize=38&fontColor=e2e8f0&fontAlignY=45&desc=Cloud%20Data%20Engineer%20%E2%80%94%20Streaming%20%26%20Batch%20Pipelines%20at%20Scale&descAlignY=65&descSize=15&descColor=94a3b8" width="100%"/>
+# Naveed Jokhio
+
+**Cloud Data Engineer** — Streaming & Batch Pipelines at Scale
 
 <p>
   <img src="https://img.shields.io/badge/Final%20Year%20SE%20Student-SMIU%20Karachi-1e293b?style=flat-square&labelColor=0f172a"/>
@@ -188,9 +190,5 @@ Streaming-style pipeline combining PySpark transformations with dbt modeling for
 
 <a href="https://linkedin.com/in/naveed-jokhio"><img src="https://img.shields.io/badge/Let's_Connect-1e293b?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:naveedjokhio243@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-1e293b?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
