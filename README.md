@@ -1,4 +1,4 @@
-content = r'''<h1 align="center">Hi, I'm Naveed Jokhio 👋</h1>
+'''<h1 align="center">Hi, I'm Naveed Jokhio 👋</h1>
 
 <h3 align="center">Cloud Data Engineer | Batch • Streaming • Cloud • Analytics</h3>
 
