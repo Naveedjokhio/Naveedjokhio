@@ -1,194 +1,331 @@
-<div align="center">
+::: {align="center"}
+# Hi, I'm Naveed Jokhio
 
-# Naveed Jokhio
+### Cloud Data Engineer \| Data Engineering • Cloud • Streaming • Analytics
 
-**Cloud Data Engineer** — Streaming & Batch Pipelines at Scale
+Building production-style data pipelines across **AWS • GCP • Microsoft
+Fabric • SAP**
 
+```{=html}
 <p>
-  <img src="https://img.shields.io/badge/Final%20Year%20SE%20Student-SMIU%20Karachi-1e293b?style=flat-square&labelColor=0f172a"/>
-  <img src="https://img.shields.io/badge/Data%20Engineer-Saylani%20Mass%20IT%20Training-1e293b?style=flat-square&labelColor=0f172a"/>
-  <img src="https://img.shields.io/badge/Data%20Science%20Intern-10Pearls%20Pakistan-1e293b?style=flat-square&labelColor=0f172a"/>
+```
+`<a href="https://linkedin.com/in/naveed-jokhio">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/Naveedjokhio">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://naveedjokhio.netlify.app">`{=html}`<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:naveedjokhio243@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
+`<img src="https://komarev.com/ghpvc/?username=Naveedjokhio&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>`{=html}
+:::
 
-<p>
-  <a href="https://linkedin.com/in/naveed-jokhio"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Naveedjokhio"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://naveedjokhio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1e293b?style=flat-square&logo=netlify&logoColor=white"/></a>
-  <a href="mailto:naveedjokhio243@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+------------------------------------------------------------------------
 
-<img src="https://komarev.com/ghpvc/?username=Naveedjokhio&style=flat-square&color=1e293b&label=Profile+Views"/>
+## About Me
 
-</div>
+I'm a **Software Engineering student and Data Engineer** focused on
+building scalable **batch, streaming, ETL/ELT, and cloud data
+pipelines**.
 
-<br>
+My work covers the complete data engineering lifecycle:
 
-## About
+**Data Sources → Ingestion → Bronze → Silver → Gold → Data Warehouse →
+Analytics**
 
-I'm a final-year Software Engineering student building production-style data pipelines — real-time streaming, batch ETL, and cloud-native medallion architectures. My work centers on taking raw data through a Bronze → Silver → Gold lifecycle: ingesting it reliably, cleaning and modeling it, and turning it into analytics-ready output.
+I work with **AWS, GCP, Microsoft Fabric, SAP Datasphere, Snowflake,
+Apache Spark, Kafka, dbt, Docker, Terraform, and modern orchestration
+tools**.
 
-Currently working as a Data Engineer at Saylani Mass IT Training and a Data Science Intern at 10Pearls Pakistan, alongside my degree at SMIU, Karachi.
+-   🎓 **BS Software Engineering** --- SMIU, Karachi
+-   ☁️ **Focus:** Cloud Data Engineering
+-   ⚡ **Building:** Batch & Streaming Data Pipelines
+-   🏗️ **Architecture:** Medallion, Lakehouse & Data Warehouse
+-   📊 **Analytics:** Power BI, SAP Analytics Cloud & Streamlit
+-   🚀 **Open to:** Junior / Associate Data Engineering opportunities
 
-| | |
-|---|---|
-| **Role** | Data Engineer |
-| **Education** | BS Software Engineering, SMIU, Karachi (2023 – 2027) |
-| **Location** | Karachi, Pakistan |
-| **Open to** | Cloud Data Engineering roles, internships & collaborations |
-| **Core stack** | Python · SQL · Kafka · PySpark · dlt · dbt · Bruin · Kestra · Snowflake · BigQuery · AWS · Airflow · Docker |
+------------------------------------------------------------------------
 
----
+## Tech Stack
 
-## Technical Skills
+### Programming & Processing
 
-**Languages**
-`Python` `SQL`
+`Python` `SQL` `Apache Spark` `PySpark` `Pandas` `NumPy`
 
-**Streaming & Processing**
-`Apache Kafka` `PySpark` `dlt`
+### Streaming & Ingestion
 
-**Cloud — GCP**
-`BigQuery` `Google Cloud Storage`
+`Apache Kafka` `dlt` `REST APIs`
 
-**Cloud — AWS**
-`Amazon S3` `AWS Lambda` `AWS Glue` `Athena`
+### AWS
 
-**Data Warehousing**
-`Snowflake` `SQL Server`
+`Amazon S3` `AWS Lambda` `AWS Glue` `Amazon Athena`
 
-**Orchestration & Transformation**
-`Kestra` `Apache Airflow` `dbt` `Bruin` `Docker`
+### GCP
 
-**Processing & Visualization**
-`Pandas` `NumPy` `Power BI`
+`BigQuery` `Google Cloud Storage` `Cloud Run`
 
-**Core Concepts**
-`Medallion Architecture` `Star Schema` `SCD Type-2` `Real-Time Streaming` `ELT/ETL` `Data Orchestration`
+### Microsoft Data Platform
 
----
+`Microsoft Fabric` `Power BI` `SQL Server`
 
-## Featured Pipelines
+### Data Warehousing & Transformation
 
-### Cricbuzz Real-Time Data Pipeline — Flagship Project
+`Snowflake` `BigQuery` `dbt`
 
-Full GCP-based real-time streaming pipeline delivering live cricket match data end-to-end, with a synthetic match simulator built in as a resilient fallback layer.
+### Orchestration & DevOps
 
-- **Kafka → GCS → dlt → BigQuery → dbt** medallion flow, orchestrated with **Bruin + Kestra**
-- Resolved real production issues: Docker-in-Docker volume mounting, GCP ADC credential mounting inside Kestra containers, dlt pipeline state corruption, and WSL2 disk space exhaustion
-- Built a synthetic match simulator as a fallback for when the live RapidAPI quota ran out, keeping the demo pipeline running end-to-end
-- Presented with a 20-slide deck and verified pipeline metrics
+`Apache Airflow` `Kestra` `Bruin` `Docker` `Terraform` `Git`
 
-`Apache Kafka` `dlt` `BigQuery` `dbt` `Kestra` `Docker`
+### SAP Data & Analytics
 
----
+`SAP Datasphere` `SAP Analytics Cloud` `SAP ERP`
 
-### E-Commerce Data Pipeline — In Progress
+### Core Data Engineering
 
-Production-grade e-commerce data pipeline built as a flagship portfolio piece, combining streaming ingestion with a full cloud-native medallion architecture.
+`ETL / ELT` `Medallion Architecture` `Star Schema` `SCD Type 2`
+`Data Lakes` `Data Warehousing` `Batch Processing`
+`Near Real-Time Streaming` `Data Quality`
 
-- **dlt + Apache Kafka + PySpark** for ingestion and transformation
-- **GCS → BigQuery** as the cloud data lake and warehouse layer
-- Orchestrated with **Bruin** and **Kestra**, fully containerized via **Docker Compose**
-- Developed end-to-end on Windows + GCP, targeting production-style reliability and observability
+------------------------------------------------------------------------
 
-`Apache Kafka` `PySpark` `GCS` `BigQuery` `Kestra` `Docker Compose`
+# Featured Projects
 
----
+## 🏭 Hyundai Elevator --- SAP Data & Analytics Case Study
 
-### Flight Operations Analytics Pipeline
+Enterprise data and analytics case study for an elevator/manufacturing
+environment with fragmented operational data.
 
-Production-grade batch pipeline ingesting live flight data from the OpenSky Network API every 30 minutes via an Airflow DAG.
+**Architecture**
 
-- Medallion Architecture (Bronze → Silver → Gold) across 4 modular tasks
-- Retry logic & idempotent task design for reliable scheduling
-- Gold-layer KPIs (air traffic volume, congestion signals, country-level activity) loaded into Snowflake via UPSERT
-- Fully Dockerized with `docker-compose`, visualized in Power BI
+``` text
+SAP ERP ───────────┐
+Procurement ───────┤
+MES ───────────────┤
+Elevator IoT ──────┼──► SAP Datasphere ──► Analytical Models ──► SAP Analytics Cloud
+Maintenance ───────┤
+AWS S3 ────────────┤
+Python / SQL ──────┘
+```
 
-`Apache Airflow` `Python` `Snowflake` `Docker` `Power BI`
+**Highlights** - Integrated data across ERP, procurement, manufacturing,
+IoT, and maintenance domains - Designed relationships for customers,
+elevators, locations, production, and maintenance - Built analytical
+data models using SAP Datasphere - Designed business KPI and
+visualization layer using SAP Analytics Cloud - Worked with large-scale
+synthetic elevator sensor, alarm, and maintenance datasets
 
----
+`SAP Datasphere` `SAP Analytics Cloud` `SAP ERP` `AWS S3` `Python` `SQL`
 
-### End-to-End Hotel Booking Data Pipeline
+------------------------------------------------------------------------
+
+## 🌍 AQI Predictor --- End-to-End ML & MLOps
+
+Serverless forecasting platform designed to predict **Air Quality Index
+up to 3 days ahead across six major cities in Pakistan**.
+
+``` text
+OpenWeather API
+      │
+      ▼
+Data Ingestion
+      │
+      ▼
+BigQuery Bronze
+      │
+      ▼
+dbt Silver / Gold
+      │
+      ▼
+Feature Engineering
+      │
+      ▼
+ML Models
+      │
+      ├──► Cloud Run API
+      └──► Streamlit Dashboard
+```
 
-Complete hotel booking data pipeline built entirely inside Snowflake using Medallion Architecture.
+**Highlights** - Automated hourly weather and pollution ingestion -
+Historical data backfill - Bronze → Silver → Gold data architecture -
+Separate models by city and forecast horizon - Ridge Regression, Random
+Forest, and TensorFlow models - RMSE, MAE, and R² evaluation -
+Serverless API and dashboard deployment on Google Cloud Run - Automated
+scheduled pipeline execution
 
-- **Bronze** — Raw booking ingestion
-- **Silver** — SQL transformations fixing invalid emails, negative amounts & status typos
-- **Gold** — Aggregation tables powering an interactive Snowsight dashboard with KPIs, trend charts & booking breakdowns
+`GCP` `BigQuery` `dbt` `TensorFlow` `Python` `Cloud Run` `Streamlit`
 
-`Snowflake` `SQL` `Snowsight` `Medallion Architecture`
+------------------------------------------------------------------------
 
----
+## 🏏 AWS Cricket Data Pipeline
 
-### AWS Serverless ETL Pipeline
+Production-style data pipeline combining **batch schedules with
+near-real-time cricket updates**.
 
-Event-driven, serverless ETL pipeline converting raw JSON into columnar Parquet, cutting storage costs by ~40%. Schema inference automated via AWS Glue Crawlers, with modular Lambda functions and S3 partitioning.
+``` text
+Schedules API ──► Lambda ──┐
+                           ├──► S3 Bronze ──► AWS Glue / PySpark ──► Silver
+Live Scores ────► Lambda ──┘                                  │
+                                                              ▼
+                                                         dbt + Athena
+                                                              │
+                                                              ▼
+                                                             Gold
+                                                              │
+                                                              ▼
+                                                     Streamlit Dashboard
+```
 
-`Amazon S3` `AWS Lambda` `AWS Glue` `Athena` `Python` `Parquet`
+**Highlights** - Batch + near-real-time ingestion - Duplicate handling
+across repeated ingestion - PySpark cleaning and deduplication - dbt
+analytical modeling with Athena - Bronze, Silver, and Gold
+architecture - Kestra orchestration - Terraform infrastructure -
+Dockerized development workflow
 
----
+`AWS` `S3` `Lambda` `Glue` `PySpark` `Athena` `dbt` `Kestra` `Terraform`
+`Docker`
 
-### PySpark + dbt Streaming Pipeline
+------------------------------------------------------------------------
 
-Streaming-style pipeline combining PySpark transformations with dbt modeling for analytics-ready outputs.
+## ✈️ Flight Operations Analytics Pipeline
 
-🔗 [github.com/Naveedjokhio/Pyspark_Dbt_Project](https://github.com/Naveedjokhio/Pyspark_Dbt_Project)
+-   Automated OpenSky Network API ingestion every 30 minutes
+-   Bronze → Silver → Gold architecture
+-   Apache Airflow DAG orchestration
+-   Retry logic and idempotent task design
+-   Snowflake Gold layer
+-   Aviation KPIs and Power BI visualization
 
-`PySpark` `dbt`
+`Airflow` `Python` `Snowflake` `Docker` `Power BI`
 
----
+------------------------------------------------------------------------
 
-## Experience
+## 🏨 Hotel Booking Data Pipeline
 
-**Data Engineer** · Saylani Mass IT Training · *Current*
-- Building streaming & batch pipelines with Kafka, PySpark, dlt, and BigQuery under the mentorship of Sir Qasim Hassan & Sir Ayan Hussain
-- Working hands-on with orchestration tools (Kestra, Bruin) for production-style pipeline reliability
+End-to-end analytical pipeline implemented inside Snowflake.
 
-**Data Science Intern** · 10Pearls Pakistan · *Current*
-- Applying data science and analytics skills in a professional, industry-facing environment alongside the Saylani internship
+-   Raw booking ingestion into Bronze
+-   Data-quality transformations in Silver
+-   Business aggregations in Gold
+-   Cleaned invalid emails, negative amounts, and inconsistent statuses
+-   Interactive analytics through Snowsight
 
-**Data Engineering Intern** · Arch Technologies · *Jan 2026 – Mar 2026* · Remote
-- Built end-to-end ETL pipelines in Python (Pandas, NumPy), cutting data prep time by ~30%
-- Automated data validation & quality checks, improving data accuracy by ~20%
-- Standardized datasets across pipelines, improving data reliability by ~25%
+`Snowflake` `SQL` `Medallion Architecture` `Snowsight`
 
----
+------------------------------------------------------------------------
 
-## Education & Certifications
+## ⚡ AWS Serverless ETL Pipeline
 
-| Program | Institution | Years |
-|---|---|---|
-| BS Software Engineering | Sindh Madressatul Islam University (SMIU), Karachi | 2023 – 2027 |
-| Intermediate (Pre-Engineering) | Govt. Boys Degree College, Naudero | 2019 – 2021 |
+``` text
+Raw JSON ──► Amazon S3 ──► AWS Lambda ──► Parquet ──► Glue Catalog ──► Athena
+```
 
-**Certifications:** Data Analytics (Deloitte) · GenAI Data Analytics (TATA) · Python (DataCamp) · Snowflake Essentials · Data Scientist (NED University)
+-   Event-driven serverless processing
+-   JSON → Parquet transformation
+-   S3 partitioning
+-   Automated schema discovery
+-   Query-ready datasets through Amazon Athena
 
----
+`AWS Lambda` `S3` `Glue` `Athena` `Python` `Parquet`
 
-## GitHub Stats
+------------------------------------------------------------------------
 
-<div align="center">
+# Experience
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naveedjokhio&show_icons=true&theme=default&hide_border=true&title_color=1e293b&icon_color=334155&text_color=334155&bg_color=ffffff"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveedjokhio&layout=compact&theme=default&hide_border=true&title_color=1e293b&text_color=334155&bg_color=ffffff"/>
+### Data Engineer --- Saylani Mass IT Training
 
-<br><br>
+Hands-on Data Engineering work involving: - Apache Kafka - PySpark /
+Apache Spark - dlt - BigQuery - dbt - Kestra & Bruin - Docker - Batch
+and streaming pipelines - Cloud data architectures
 
-<img src="https://streak-stats.demolab.com?user=Naveedjokhio&theme=default&hide_border=true&background=ffffff&ring=1e293b&fire=334155&currStreakLabel=1e293b"/>
+Worked under the mentorship of **Sir Qasim Hassan and Sir Ayan
+Hussain**.
 
-<br><br>
+### Data Science Intern --- 10Pearls Pakistan
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveedjokhio&theme=minimal&hide_border=true&bg_color=ffffff&color=1e293b&line=334155&point=0f172a"/>
+Built an end-to-end **AQI Forecasting & MLOps platform**, covering: -
+Data ingestion and transformation - BigQuery and dbt - Feature
+engineering - Machine learning and TensorFlow - Cloud Run API
+deployment - Streamlit dashboard - Pipeline automation
 
-</div>
+### Data Engineering Intern --- Arch Technologies
 
----
+**Jan 2026 -- Mar 2026 \| Remote**
 
-<div align="center">
+-   Built ETL pipelines using Python, Pandas, and NumPy
+-   Implemented automated data validation and quality checks
+-   Standardized datasets across processing workflows
+-   Prepared analytics-ready transformed datasets
 
-**Open to Data Engineering roles, internships & collaborations**
+------------------------------------------------------------------------
 
-<a href="https://linkedin.com/in/naveed-jokhio"><img src="https://img.shields.io/badge/Let's_Connect-1e293b?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:naveedjokhio243@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-1e293b?style=flat-square&logo=gmail&logoColor=white"/></a>
+# Certification
 
-</div>
+::: {align="center"}
+`<img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>`{=html}
+
+### Microsoft Certified: Fabric Data Engineer Associate
+
+**DP-700 --- Implementing Data Engineering Solutions Using Microsoft
+Fabric**
+:::
+
+------------------------------------------------------------------------
+
+# Education
+
+  -----------------------------------------------------------------------
+  Degree                  Institution             Duration
+  ----------------------- ----------------------- -----------------------
+  **BS Software           Sindh Madressatul Islam 2023 -- 2027
+  Engineering**           University (SMIU),      
+                          Karachi                 
+
+  Intermediate ---        Govt. Boys Degree       2019 -- 2021
+  Pre-Engineering         College, Naudero        
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# Certifications & Learning
+
+-   **Microsoft Certified: Fabric Data Engineer Associate --- DP-700**
+-   Big Data Fundamentals with PySpark --- DataCamp
+-   Snowflake Hands-On Essentials
+-   Python --- DataCamp
+-   Data Analytics --- Deloitte
+-   GenAI Data Analytics --- Tata
+
+------------------------------------------------------------------------
+
+# GitHub Analytics
+
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naveedjokhio&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1"/>`{=html}
+
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveedjokhio&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1"/>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+`<img src="https://streak-stats.demolab.com?user=Naveedjokhio&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8"/>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveedjokhio&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+## Let's Connect
+
+**Open to Junior / Associate Data Engineer roles, internships,
+collaborations, and Data Engineering projects.**
+
+`<a href="https://linkedin.com/in/naveed-jokhio">`{=html}`<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:naveedjokhio243@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://naveedjokhio.netlify.app">`{=html}`<img src="https://img.shields.io/badge/View%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>`{=html}`</a>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+**Python • SQL • Spark • Kafka • AWS • GCP • Microsoft Fabric • SAP •
+Snowflake • dbt**
+:::
